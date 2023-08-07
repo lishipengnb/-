@@ -27,17 +27,7 @@
 ![输入图片说明](%E5%A7%9A%E5%8F%AF%E8%8E%B9%E5%90%8D%E8%A8%80%EF%BC%88%E6%88%AA%E5%9B%BE%EF%BC%89/%E5%90%8D%E8%A8%801.jpg)
 ![输入图片说明](%E5%A7%9A%E5%8F%AF%E8%8E%B9%E5%90%8D%E8%A8%80%EF%BC%88%E6%88%AA%E5%9B%BE%EF%BC%89/%E5%90%8D%E8%A8%802.jpg)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+如有侵权，请联系QQ：2512023558
+邮箱：shipengli125@qq.com
 
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
